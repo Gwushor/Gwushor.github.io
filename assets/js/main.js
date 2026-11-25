@@ -120,7 +120,7 @@ async function syncRepos() {
   if (!cells.length) return;
   const note = document.getElementById('repos-note');
   try {
-    const res = await fetch('https://api.github.com/users/Grshor/repos?per_page=100', {
+    const res = await fetch('https://api.github.com/users/Gwushor/repos?per_page=100', {
       headers: { Accept: 'application/vnd.github+json' },
     });
     if (!res.ok) throw new Error(String(res.status));

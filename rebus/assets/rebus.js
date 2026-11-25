@@ -440,7 +440,7 @@ contactsEl.innerHTML = `
     <svg viewBox="0 0 72 72" fill="none" stroke="currentColor" stroke-width="2">
       <path d="M58 14 L12 32 L26 38 L30 54 L38 44 L50 52 Z"/><path d="M26 38 L50 20"/>
     </svg></a>
-  <a href="https://github.com/Grshor" aria-label="github" rel="noopener">
+  <a href="https://github.com/Gwushor" aria-label="github" rel="noopener">
     <svg viewBox="0 0 72 72" fill="none" stroke="currentColor" stroke-width="2">
       <circle cx="36" cy="36" r="24"/><path d="M24 40c8 6 16 6 24 0M28 30h.5M44 30h.5"/>
     </svg></a>`;
